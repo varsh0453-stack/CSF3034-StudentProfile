@@ -15,6 +15,8 @@ public class StudentProfile {
        System.out.println("Name: Varshan Nair");//prints the text and move cursor to new line
        System.out.println("Student id: S87372");
        System.out.println("Programme: Bachelor of Computer Science");
+       System.out.println("Semester : Semester 1");
+       System.out.println("Favourite language: Java");
     }
     
 }
